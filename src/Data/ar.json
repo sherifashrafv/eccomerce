@@ -1,0 +1,320 @@
+{
+  "languages": {
+    "English": "انجليزي",
+    "Arabic": "عربي"
+  },
+  "search-header": {
+    "shopping-cart": "السلة",
+    "login OR Sign-Up": "تسجيل الدخول ",
+    "input-placeHolder": "ماذا تريد البحث عنه",
+    "buttonsearch": "ابحث",
+    "logo": "عمرو افندي",
+    "span-logo": "سلسلة متاجر",
+    "help": "مساعدة"
+  },
+  "Deleviery": {
+    "repeat": "ارجاع السلع مجانا",
+    "delve": "ارسال الي جميع الاماكن",
+    "freeDelev": "شحن مجاني"
+  },
+  "links": [
+    {
+      "path": "",
+      "name": "AllCategories"
+    },
+    {
+      "path": "SuperMarkets",
+      "name": "SuperMarkets"
+    },
+    {
+      "path": "Mobiles&Tabalets",
+      "name": "Mobiles & Tabalets"
+    },
+    {
+      "path": "HomeElctorinecs",
+      "name": "HomeElctorinecs"
+    },
+    {
+      "path": "Health&Bueaty",
+      "name": "Health&Bueaty"
+    },
+    {
+      "path": "Laptops&Elctorinecs",
+      "name": "Laptops"
+    },
+    {
+      "path": "Kids",
+      "name": "Kids"
+    },
+    {
+      "path": "Others",
+      "name": "Others.."
+    }
+  ],
+  "SignUp": {
+    "Sign": "سجل الدخول",
+    "LogOut": "سجل الخروج",
+    "Login": "سجل الدخول",
+    "Phone": "التليفون",
+    "firstName": "الاسم الاول",
+    "lastName": "اسم العائلة",
+    "email": "الايميل",
+    "password": "الباسورد",
+    "passwordConfirm": "تاكيد الباسورد",
+    "passwordError": "الباسورد غير صحيح",
+    "scucess": "نجاح",
+    "error": "ادخل الحقول صحيحة",
+    "phoneError": "يجب ادخال رقم التليفون ",
+    "EmailError": "الايميل خطأ",
+    "LastNameError": "اسم العائلة خطأ",
+    "UserNameError": "الاسم خطا الرجاء ادخال الاسم بطريقة صحيح",
+    "ConfirmPassword": "الباسورد خطأ",
+    "SubmitHolder": "رقم الهاتف",
+    "example": "البلاد ",
+    "Submit": "ادخل البيانات",
+    "country": "رقم البلد",
+    "enterPhone": "ادخل رقم الهاتف"
+  },
+  "bestSellers": {
+    "title": "سلع شائعة بين المشتريين"
+  },
+  "productsMost": {
+    "title": "الاكثر مبيعا"
+  },
+  "products": [
+    {
+      "id": 1,
+      "title": "ساعة ذكية من أورايمو موديل او اس 16",
+      "price": 109.95,
+      "del": 500,
+      "currency": "$",
+      "details": "ساعة ذكية من أورايمو موديل او اس 16 ساعة ذكية من أورايمو موديل او اس 16 ساعة ذكية من أورايمو موديل او اس 16",
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254",
+      "rating": 1750,
+      "buy": "المشتريين",
+      "quantity": 1,
+      "button": "add To Cart",
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "تلفزيون LED بشاشة 24 بوصة عالية الدقة HD من هوهو HK2405 - اسود",
+      "price": 22.3,
+      "currency": "جنيه ",
+      "button": "اضف الي السلة",
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646",
+      "rating": 1750,
+      "buy": "المشتريين",
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "تلفزيون LED بشاشة 24 بوصة عالية الدقة HD من هوهو HK2405 - اسود",
+      "price": 55.99,
+      "currency": "جنيه",
+      "button": "اضف الي السلة",
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644",
+      "rating": 1750,
+      "buy": "المشتريين",
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "اكس لاود تيشيرت H150 مع ميكرفون اس دي، اف ام - احمر",
+      "price": 55.99,
+      "category": "men's clothing",
+      "button": "اضف الي السلة",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/49729/1.jpg?0309",
+      "rating": 1750,
+      "buy": "المشتريين",
+      "currency": "جنيه",
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "ايفون 13 بسعة تخزين 128 جيجابايت، ازرق",
+      "price": 109.95,
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927",
+      "rating": 1750,
+      "buy": "مشتري",
+      "quantity": 1,
+      "button": "اضف الي السلة",
+      "currency": "جنيه",
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "ايفون 13 بسعة تخزين 128 جيجابايت، ازرق",
+      "price": 22.3,
+      "button": "اضف الي السلة",
+      "buy": "المشتريين",
+      "currency": "جنيه",
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/241822/1.jpg?3886",
+      "rating": 1750,
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "ايفون 13 بسعة تخزين 128 جيجابايت، ازرق",
+      "price": 55.99,
+      "button": "اضف الي السلة",
+      "buy": "المشتريين",
+      "currency": "جنيه",
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/584742/1.jpg?3515",
+      "rating": 1750,
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "ايفون 13 بسعة تخزين 128 جيجابايت، ازرق",
+      "price": 55.99,
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/903442/1.jpg?3307",
+      "rating": 1750,
+      "button": "اضف الي السلة",
+      "buy": "المشتريين",
+      "currency": "ج",
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    }
+  ]
+}

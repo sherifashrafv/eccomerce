@@ -1,0 +1,13 @@
+@import "./Header/Header.css";
+@import "./Arabic/ar.css";
+@import "./English/en.css";
+body,
+html {
+  font-family: "Cairo";
+  background: #f2f1ef;
+}
+.border-bottom {
+  width: 100%;
+  background: #ddd;
+  height: 2px;
+}

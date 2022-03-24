@@ -1,0 +1,467 @@
+{
+  "languages": {
+    "English": "انجليزي",
+    "Arabic": "عربي"
+  },
+  "search-header": {
+    "shopping-cart": "سلة الشراء",
+    "login OR Sign-Up": "تسجيل الدخول ",
+    "input-placeHolder": "ماذا تريد البحث عنه",
+    "buttonsearch": "ابحث",
+    "logo": "عمرو افندي",
+    "span-logo": "سلسلة متاجر",
+    "help": "مساعدة"
+  },
+  "Deleviery": {
+    "repeat": "ارجاع السلع مجانا",
+    "delve": "ارسال الي جميع الاماكن",
+    "freeDelev": "شحن مجاني"
+  },
+  "links": [
+    {
+      "path": "",
+      "name": "AllCategories"
+    },
+    {
+      "path": "SuperMarkets",
+      "name": "SuperMarkets"
+    },
+    {
+      "path": "Mobiles&Tabalets",
+      "name": "Mobiles & Tabalets"
+    },
+    {
+      "path": "HomeElctorinecs",
+      "name": "HomeElctorinecs"
+    },
+    {
+      "path": "Health&Bueaty",
+      "name": "Health&Bueaty"
+    },
+    {
+      "path": "Laptops&Elctorinecs",
+      "name": "Laptops"
+    },
+    {
+      "path": "Kids",
+      "name": "Kids"
+    },
+    {
+      "path": "Others",
+      "name": "Others.."
+    }
+  ],
+  "SignUp": {
+    "Sign": "سجل الدخول",
+    "LogOut": "سجل الخروج",
+    "Login": "سجل الدخول",
+    "Phone": "التليفون",
+    "firstName": "الاسم الاول",
+    "lastName": "اسم العائلة",
+    "email": "الايميل",
+    "password": "الباسورد",
+    "passwordConfirm": "تاكيد الباسورد",
+    "passwordError": "الباسورد غير صحيح",
+    "scucess": "نجاح",
+    "error": "ادخل الحقول صحيحة",
+    "phoneError": "يجب ادخال رقم التليفون ",
+    "EmailError": "الايميل خطأ",
+    "LastNameError": "اسم العائلة خطأ",
+    "UserNameError": "الاسم خطا الرجاء ادخال الاسم بطريقة صحيح",
+    "ConfirmPassword": "الباسورد خطأ",
+    "SubmitHolder": "رقم الهاتف",
+    "example": "البلاد ",
+    "Submit": "ادخل البيانات",
+    "country": "رقم البلد",
+    "enterPhone": "ادخل رقم الهاتف"
+  },
+  "bestSellers": {
+    "title": "سلع شائعة بين المشتريين"
+  },
+  "productsMost": {
+    "title": "الاكثر مبيعا"
+  },
+  "products": [
+    {
+      "id": 1,
+      "title": "ساعة ذكية من أورايمو موديل او اس 16",
+      "price": 109.95,
+      "del": 500,
+      "currency": "$",
+      "details": "ساعة ذكية من أورايمو موديل او اس 16 ساعة ذكية من أورايمو موديل او اس 16 ساعة ذكية من أورايمو موديل او اس 16",
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254",
+      "rating": 1750,
+      "buy": "المشتريين",
+      "quantity": 1,
+      "button": "add To Cart",
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "تلفزيون LED بشاشة 24 بوصة عالية الدقة HD من هوهو HK2405 - اسود",
+      "price": 22.3,
+      "currency": "جنيه ",
+      "button": "اضف الي السلة",
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646",
+      "rating": 1750,
+      "buy": "المشتريين",
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "تلفزيون LED بشاشة 24 بوصة عالية الدقة HD من هوهو HK2405 - اسود",
+      "price": 55.99,
+      "currency": "جنيه",
+      "button": "اضف الي السلة",
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644",
+      "rating": 1750,
+      "buy": "المشتريين",
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "اكس لاود تيشيرت H150 مع ميكرفون اس دي، اف ام - احمر",
+      "price": 55.99,
+      "category": "men's clothing",
+      "button": "اضف الي السلة",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/49729/1.jpg?0309",
+      "rating": 1750,
+      "buy": "المشتريين",
+      "currency": "جنيه",
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "ايفون 13 بسعة تخزين 128 جيجابايت، ازرق",
+      "price": 109.95,
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927",
+      "rating": 1750,
+      "buy": "مشتري",
+      "quantity": 1,
+      "button": "اضف الي السلة",
+      "currency": "جنيه",
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "ايفون 13 بسعة تخزين 128 جيجابايت، ازرق",
+      "price": 22.3,
+      "button": "اضف الي السلة",
+      "buy": "المشتريين",
+      "currency": "جنيه",
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/241822/1.jpg?3886",
+      "rating": 1750,
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "ايفون 13 بسعة تخزين 128 جيجابايت، ازرق",
+      "price": 55.99,
+      "button": "اضف الي السلة",
+      "buy": "المشتريين",
+      "currency": "جنيه",
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/584742/1.jpg?3515",
+      "rating": 1750,
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "ايفون 13 بسعة تخزين 128 جيجابايت، ازرق",
+      "price": 55.99,
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/903442/1.jpg?3307",
+      "rating": 1750,
+      "button": "اضف الي السلة",
+      "buy": "المشتريين",
+      "currency": "ج",
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    }
+  ],
+  "signUp": {
+    "sigon": "البيانات",
+    "signUp": "تسجيل الدخول ",
+    "profile":"حسابك الشخصي",
+    "logout":"سجل الخروج"
+  },
+  "content": {
+    "head": "مرحبا بك في اسواق عمر افندي , اكبر سلسلة  اسواق في مصر",
+    "description": "تكرس اسواق عمر افندي , اكبر مول اونلاين في مصر , كل جهودها لتقديم افضل تجربة تسوق اليك تعتبر اسواق عمر افندي موقع التسوق الالكتروني الاول حيث انها بمثابة سوق اونلاين , يوفر لك كل ما تحتاجه هدفنا هو توفير افضل المنتجات التي تريدها سواء كنت في القاهرة او اسكندرية في اي مدينة اخري في مصر في اسواق عمر افندي حيث يمكنك شراء موبايل بافضل سعر بالاضافة الي هذا , ستجدد افضل ماركات مصرية وعالمية مثل ابل , وسامسونج , انفينكس , كانون , ولينوفو وغيرها الكثير بالاضافة الي ذلك , يمكنك ايجاد كل مسلتزمات المنزل والمطبخ بافضل اسعار وماركات في مصر مثل يونيون اير , وكيريازي , وسوني والكثير "
+  },
+  "social": [
+    {
+      "path": "https://web.facebook.com/?_rdc=1&_rdr",
+      "icon": "fa-brands fa-instagram"
+    },
+    {
+      "path": "https://web.facebook.com/?_rdc=1&_rdr",
+      "icon": "fa-brands fa-youtube"
+    },
+    {
+      "path": "https://web.facebook.com/?_rdc=1&_rdr",
+      "icon": "fa-brands fa-twitter-square"
+    },
+    {
+      "path": "https://web.facebook.com/?_rdc=1&_rdr",
+      "icon": "fa-brands fa-facebook-square"
+    }
+  ],
+  "joinUs": {
+    "head": "اشترك في نشرتنا الاخبارية ",
+    "descrip": "اكتب بريدك الالكتروني هنا للاشتراك ",
+    "button": "اشترك"
+  },
+  "helperStation": {
+    "station": "مركز المساعدة ",
+    "Do You Need": "لديك استفسار او مشكلة ؟",
+    "download": "تحميل تطبيق الموبايل "
+  },
+  "devices": [
+    {
+      "path": "https://web.facebook.com/?_rdc=1&_rdr",
+      "icon": "fa-brands fa-windows"
+    },
+    {
+      "path": "https://web.facebook.com/?_rdc=1&_rdr",
+      "icon": "fa-brands fa-apple"
+    },
+    {
+      "path": "https://web.facebook.com/?_rdc=1&_rdr",
+      "icon": "fa-brands fa-android"
+    }
+  ],
+  "footer": [
+    {
+      "title": "الشراء من عمر افندي",
+      "links": [
+        {
+          "title": "كيفية الشراء",
+          "path": "howbuy"
+        },
+        {
+          "title": "سياسة ارجاع السلع ",
+          "path": "restoreProducts"
+        },
+        {
+          "title": "اعلن معنا",
+          "path": "AdvetiseMent"
+        },
+        {
+          "title": "طرق الدفع",
+          "path": "PayMents"
+        }
+      ],
+      "link": [
+        { "path": "paybal", "icon": "fa-brands fa-cc-paypal" },
+        { "path": "paybal", "icon": "fa-brands fa-cc-visa" },
+        { "path": "paybal", "icon": "fa-brands fa-cc-mastercard" }
+      ]
+    },
+    {
+      "title": "حسابي",
+      "links": [
+        {
+          "title": "دخول/تسجيل",
+          "path": "signUp"
+        },
+        {
+          "title": "عربة التسوق",
+          "path": "shoppignCart"
+        },
+        {
+          "title": "عنوايني",
+          "path": "locations"
+        },
+        {
+          "title": "القوائم المفضلة",
+          "path": "favouriets"
+        },
+        {
+          "title": "اعدادات الحساب",
+          "path": "settings"
+        },
+        {
+          "title": "حركات حسابي",
+          "path": "movements"
+        }
+      ]
+    },
+    {
+      "title": "خدمات العملاء",
+      "links": [
+        {
+          "title": "مركز المساعدة",
+          "path": "help"
+        },
+        {
+          "title": "اتصل بنا ",
+          "path": "callUs"
+        },
+        {
+          "title": "كيفية عمل طلب شراء ",
+          "path": "AdvetiseMent"
+        },
+        {
+          "title": "طرق الدفع",
+          "path": "PayMents"
+        },
+        {
+          "title": "سياسة الشحن ",
+          "path": "delveryPolicy"
+        },
+        {
+          "title": "سياسة الارجاع والاسترداد النقدي ",
+          "path": "delveryExports&Imports"
+        },
+        {
+          "title": "صفقات الشركات",
+          "path": "companySituations"
+        }
+      ]
+    }
+  ],
+  "settings": [
+    { "title": "تعديل الحساب", "path": "" },
+    { "title": "الرجوع الي الرئيسية", "path": "/" },
+    { "title": "مسح الحساب", "path": "Delete" }
+  ]
+}

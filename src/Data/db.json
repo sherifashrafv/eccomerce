@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "email": "sherif@yahoo.com",
+      "password": "س_شساقشب12",
+      "userName": "sherif",
+      "lastname": "ashraf",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "ساعة ذكية من أورايمو موديل او اس 16",
+      "price": 109.95,
+      "del": 500,
+      "currency": "جنيه",
+      "details": "ساعة ذكية من أورايمو موديل او اس 16 ساعة ذكية من أورايمو موديل او اس 16 ساعة ذكية من أورايمو موديل او اس 16",
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254",
+      "rating": 1750,
+      "buy": "مشتري",
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "تلفزيون LED بشاشة 24 بوصة عالية الدقة HD من هوهو HK2405 - اسود",
+      "price": 22.3,
+      "currency": "جنيه",
+      "del": 500,
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646",
+      "rating": 1750,
+      "buy": "مشتري",
+      "quantity": 1,
+      "details": "ساعة ذكية من أورايمو موديل او اس 16 ساعة ذكية من أورايمو موديل او اس 16 ساعة ذكية من أورايمو موديل او اس 16",
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "اكس لاود تيشيرت H150 مع ميكرفون اس دي، اف ام - احمر",
+      "price": 55.99,
+      "currency": "جنيه",
+      "category": "men's clothing",
+      "del": 500,
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644",
+      "rating": 1750,
+      "details": "ساعة ذكية من أورايمو موديل او اس 16 ساعة ذكية من أورايمو موديل او اس 16 ساعة ذكية من أورايمو موديل او اس 16",
+      "buy": "مشتري",
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "ايفون 13 بسعة تخزين 128 جيجابايت، ازرق",
+      "price": 55.99,
+      "category": "men's clothing",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/49729/1.jpg?0309",
+      "details": "ساعة ذكية من أورايمو موديل او اس 16 ساعة ذكية من أورايمو موديل او اس 16 ساعة ذكية من أورايمو موديل او اس 16",
+      "rating": 1750,
+      "buy": "مشتري",
+      "currency": "جنيه",
+      "quantity": 1,
+      "images": [
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/373342/1.jpg?4927"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/165012/1.jpg?0644"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/891052/1.jpg?6254"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        },
+        {
+          "src": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/100232/1.jpg?6646"
+        }
+      ]
+    }
+  ]
+}

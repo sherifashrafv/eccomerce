@@ -1,0 +1,50 @@
+html:lang(en) * {
+  text-align: left;
+}
+li.d-flex.flex-column.mr-3.align-items-center.text-black.text-decoration-none.justify-content-center {
+  margin-right: 20px;
+}
+input[type="submit"] {
+  text-align: center;
+}
+
+button.btn.btn-primary {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
+li.SignForm.d-flex.flex-column.align-items-center {
+  width: 100px;
+}
+h5.help.text-center span {
+  display: none;
+}
+li.text-decoration-none.shopping-cart {
+  margin-top: 0;
+}
+li.SignForm.d-flex.flex-column.align-items-center {
+  margin-top: 29px;
+}
+li.help-link.d-flex.flex-column.mr-3.align-items-center.text-black.text-decoration-none.justify-content-center {
+  margin-top: 15px;
+}
+.logo {
+  position: relative;
+  text-align: center;
+}
+.logo h5 {
+  font-size: 25px;
+  color: #1e8bc3;
+}
+.logo span {
+  position: relative;
+}
+.logo span {
+  position: absolute;
+  top: 21px;
+  left: 20px;
+}
+.links-nav.mt-4 ul {
+  justify-content: flex-start !important;
+}
